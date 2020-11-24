@@ -17,15 +17,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://southvalleypharmacy.com" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/" # the subpath of your site, e.g. /blog
-title: "Central Coast Pharmacy Services" # the name of your site, e.g. ACME Corp.
-description: "At Central Coast Pharmacy Services, we understand it takes compassion to provide you with quality services that you deserve in fulfilling your medication needs."
+title: "South Valley Pharmacy Services" # the name of your site, e.g. ACME Corp.
+description: "At South Valley Pharmacy, we understand it takes compassion to provide you with quality services that you deserve in fulfilling your medication needs. Medication deliverey for the lower Bay Area and Gilroy!"
 permalink: pretty
 twitter_username: svps
 github_username:  svps
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
 
